@@ -10,14 +10,5 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {
-    "Ap-ap": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-08-23",
-      "hwid": [
-        "3528ab33f1790505"
-      ]
-    }
-  }
+  "keys": {}
 }
