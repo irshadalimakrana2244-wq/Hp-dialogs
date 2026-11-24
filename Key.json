@@ -10,14 +10,5 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {
-    "FHHDLA-GKJDVF-GKGHAL": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-11-25",
-      "hwid": [
-        "PWF-EAAB-F5F1"
-      ]
-    }
-  }
+  "keys": {}
 }
